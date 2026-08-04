@@ -11,6 +11,7 @@ public class Main {
         if (resposta.equalsIgnoreCase("sim")) {
             System.out.println("Mensagem suspeita ");
 
+
         } else {
             System.out.println("Mensagem provavelmente legitima ");
 
